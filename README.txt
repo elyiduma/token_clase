@@ -28,6 +28,8 @@ IDE de desarrollo
 
 ### Probar la aplicación mediante la interface web
 1- Descargar como zip o bien clonar el repositorio usando git o cualqueir asistente grafico
+
+
    Una vez descargado puede optar por ejecutar el jar y levantar la aplicacion o  recompilar el proyecto si lo habre en su IDE favorito
    
 2- Descomprimir el paque descargado.
@@ -53,4 +55,4 @@ Dichas pruebas se lanzan de manera automática.
 
 
 
-
+#Modificado por Elyiduma 
